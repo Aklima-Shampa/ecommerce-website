@@ -1,0 +1,45 @@
+.name-color{
+    font-weight:bold;
+    color: #FABE4C;
+}
+
+h1{
+    font-size: 80px;
+    color:#3E3E3E;
+    font-weight: bold;
+}
+h5{
+    font-size: 30px;
+    color:#3E3E3E;
+    font-weight: bold;
+}
+
+p{
+    color:#3E3E3E;
+    font-size: 20px;  
+    font-weight: bold;
+}
+.logo-img img {
+width:200px;
+}
+.btn {
+background-color: linear-gradint rgb(85, 228, 85);
+}
+.card{
+    border:10px solid white;
+    border-radius: 6px;
+    background-color: rgb(224, 221, 221);
+ 
+}
+.card img{
+    height: 380px;
+    width: 320px;
+   padding: 10px 10px;
+   margin: 20px 20px;
+}
+.card-body{
+    background-color: white;
+}
+.img-cart{
+    display:inline-flex;
+}
